@@ -1,0 +1,24 @@
+<ul>
+    <li>(TODO) Read Angular Essentials Guide</li>
+    <p>Title:{{taskTitle}}</p>
+</ul>
+
+@if(isAdmin){
+    <button>Erase database</button>
+}@else {
+    <p>You are not authorized.</p>
+  }
+
+<!-- try using for loop in latest angular version -->
+
+<ul>
+ @for(items of ingredientList; track items.name){
+
+     <li>{{items.quantity}} - {{items.name}}</li>
+ }
+
+</ul>
+
+
+<button (click)="transformText()">Abracadabra!</button>
+<p>{{announcement}}</p>
