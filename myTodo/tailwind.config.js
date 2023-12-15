@@ -12,6 +12,7 @@ export const content = [
 export const theme = {
   colors: {
     'sky': '#006D77',
+    'btn':'#BEE1E6'
   },
   extend: {},
 };
