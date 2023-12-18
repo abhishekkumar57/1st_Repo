@@ -13,11 +13,11 @@ A beautiful landing page showcasing the technologies used in this project.
 ## Project Images
 2. Images
 
-![Alt text](<Screenshot 2023-12-18 163553.png>)
  ![Alt text](<Screenshot 2023-12-18 163425.png>)
   ![Alt text](<Screenshot 2023-12-18 163444.png>) 
   ![Alt text](<Screenshot 2023-12-18 163510.png>) 
   ![Alt text](<Screenshot 2023-12-18 163528.png>)
+  ![Alt text](<Screenshot 2023-12-18 163553.png>)
 
 
 3. **Customization:**
